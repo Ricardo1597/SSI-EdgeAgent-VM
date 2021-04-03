@@ -3,5 +3,5 @@ The virtual machine snapshot was to big to be stored in github. For that reason,
 
 The credentials to access the virtual machine are the following:
 
-- Nome do utilizador: ssi-poc
-- Senha: SSI-Poc-2021
+- Username: ssi-poc
+- Password: SSI-Poc-2021
